@@ -8,8 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "@auth0/nextjs-auth0": "^0.10.0",
+    "@chakra-ui/core": "^0.7.0",
+    "@emotion/core": "^10.0.28",
+    "@emotion/styled": "^10.0.27",
+    "aws-sdk": "^2.648.0",
+    "dotenv": "^8.2.0",
+    "emotion-theming": "^10.0.27",
+    "isomorphic-unfetch": "^3.0.0",
     "next": "9.3.2",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "react-query": "^1.1.7",
+    "react-query-devtools": "^1.0.13"
   }
 }
