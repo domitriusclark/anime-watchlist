@@ -8,4 +8,4 @@ export default () => {
       <p>welcome to my app</p>
     </Flex>
   )
-}
+};
